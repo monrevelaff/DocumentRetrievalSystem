@@ -1,4 +1,4 @@
-# DocumentRetrievalSystem
+# Document Retrieval System
 A document retrieval system originally developed as part of my undergraduate studies and now being revisited and modernised as a personal project.
 
 The system implements classical information retrieval techniques to retrieve and rank relevant documents from the CACM (Communications of the ACM) collection. It supports multiple term-weighting schemes and preprocessing configurations, allowing their effects on retrieval performance to be compared.
